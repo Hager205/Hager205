@@ -1,6 +1,6 @@
 ## Hi there, I'm Hager! 👋
 
-### 🚀 Junior Data Scientist & Software Engineer | Machine Learning | Data Analysis | Software Development
+### 🚀 Junior Data Scientist & Software Engineer
 
 I am a **Junior Data Scientist and Software Engineer** with a strong foundation in **machine learning, deep learning, and data-driven decision-making**. I am currently pursuing my **degree in Computers and Data Science at Alexandria University**. I am dedicated to leveraging **AI, data science, and software development** to create innovative solutions for real-world challenges. My expertise lies in designing intelligent systems, optimizing data workflows, and implementing scalable technologies.
 

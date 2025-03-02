@@ -52,7 +52,7 @@ I am a **Junior Data Scientist and Software Engineer** with a strong foundation 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Hager-Omara)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://hagermohamed74.my.canva.site/)
 [![Freelance](https://img.shields.io/badge/Freelance-FF4500?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01995688a7e6026300?mp_source=share)
-[![Freelance]((https://www.google.com/imgres?q=khamsat&imgurl=https%3A%2F%2Fplay-lh.googleusercontent.com%2FU_YVrDj0xZhdm39jizEgIPSBnkkQmrLWRqRVcynlLDVTCevgwUSzt7kkGNka2rK49A&imgrefurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.khamsat.earnmoney.dollar%26hl%3Dar&docid=DH1ONeeLwFxknM&tbnid=rttu-xPrq3Z5vM&vet=12ahUKEwjQx4nz3uuLAxUzVKQEHY2kAyUQM3oECHEQAA..i&w=512&h=512&hcb=2&ved=2ahUKEwjQx4nz3uuLAxUzVKQEHY2kAyUQM3oECHEQAA))](https://khamsat.com/user/stancy)
+[![Freelance](https://img.shields.io/badge/Khamsat-FFCC00?style=for-the-badge&logo=freelancer&logoColor=white)](https://khamsat.com/user/stancy)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](hm294554@gmail.com)
 
 ---

@@ -1,12 +1,12 @@
 ## Hi there, I'm Hager! 👋
 
-### 🚀  Data Scientist & AI Engineer
+###  Data Scientist & AI Engineer
 
 I am a **Junior Data Scientist and Software Engineer** with a strong foundation in **machine learning, deep learning, and data-driven decision-making**. I am currently pursuing my **degree in Computers and Data Science at Alexandria University**. I am dedicated to leveraging **AI, data science, and software development** to create innovative solutions for real-world challenges. My expertise lies in designing intelligent systems, optimizing data workflows, and implementing scalable technologies.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Tech Stack & Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -20,7 +20,7 @@ I am a **Junior Data Scientist and Software Engineer** with a strong foundation 
 
 ---
 
-### 🔥 Featured Projects
+### Featured Projects
 
 📌 **[Organic Waste Management System](https://github.com/Hager205/OrganicWasteWeightEstimation)**  
 - Developed a **detection model** and **Volume Estimation modeling** system to estimate organic waste weight for sustainable hydrogen production.  
@@ -33,7 +33,7 @@ I am a **Junior Data Scientist and Software Engineer** with a strong foundation 
 📌 **[Customer Churn Prediction for DEPI Scholarship](https://github.com/Hager205/Customer-Churn-Prediction-DEPI)**  
 - implements advanced machine learning techniques to predict **customer churn behavior**. By analyzing patterns in customer data, businesses can identify at-risk customers and take proactive steps to improve retention.
 
-💡 *Check out more of my projects [here](https://github.com/Hager205?tab=repositories)*
+ *Check out more of my projects [here](https://github.com/Hager205?tab=repositories)*
 
 ---
 
@@ -48,11 +48,11 @@ I am a **Junior Data Scientist and Software Engineer** with a strong foundation 
 
 ---
 
-### 💡 Fun Fact
-💚 *"Code is the closest thing we have to magic—turning logic into limitless possibilities!"* 🚀
+###  Fun Fact
+ *"Code is the closest thing we have to magic—turning logic into limitless possibilities!"* 💚
 
 ---
 
-⭐️ **If you like my work, consider giving a star to my projects!** 🌟
+⭐️ **If you like my work, consider giving a star to my projects!** ⭐️
 
 

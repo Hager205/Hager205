@@ -1,6 +1,6 @@
 ## Hi there, I'm Hager! 👋
 
-### 🚀 Junior Data Scientist & Software Engineer
+### 🚀  Data Scientist & AI Engineer
 
 I am a **Junior Data Scientist and Software Engineer** with a strong foundation in **machine learning, deep learning, and data-driven decision-making**. I am currently pursuing my **degree in Computers and Data Science at Alexandria University**. I am dedicated to leveraging **AI, data science, and software development** to create innovative solutions for real-world challenges. My expertise lies in designing intelligent systems, optimizing data workflows, and implementing scalable technologies.
 
@@ -22,8 +22,8 @@ I am a **Junior Data Scientist and Software Engineer** with a strong foundation 
 
 ### 🔥 Featured Projects
 
-📌 **[Organic Waste Management System](#)**  
-- Developed a **detection model** and **3D modeling** system to estimate organic waste weight for sustainable hydrogen production.  
+📌 **[Organic Waste Management System](https://github.com/Hager205/OrganicWasteWeightEstimation)**  
+- Developed a **detection model** and **Volume Estimation modeling** system to estimate organic waste weight for sustainable hydrogen production.  
 - Integrated **deep learning**, **image processing**, and **data visualization**.
 
 📌 **[Multi-Site Inventory Management System](#)**  

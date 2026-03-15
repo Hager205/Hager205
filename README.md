@@ -39,13 +39,13 @@ I am a **Junior Data Scientist and Software Engineer** with a strong foundation 
 
 ### 📊 GitHub Stats
 
-![Hager's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Hager205&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+### 💻 Top Languages
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)
-
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hager205&layout=compact&theme=tokyonight&hide_border=true"/>
 
 ### 🌍 Let's Connect
 

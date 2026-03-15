@@ -30,10 +30,10 @@ I am a **Junior Data Scientist and Software Engineer** with a strong foundation 
 - Designed a distributed database system for **real-time inventory tracking** across multiple locations.
 - Used **SQL Server, data fragmentation, and replication** to ensure efficiency.
 
-📌 **[Hospital Data Analysis for Treatment Decision-Making](#)**  
-- Applied **multivariate analysis (MANOVA)** for **data-driven healthcare insights**.
+📌 **[Customer Churn Prediction for DEPI Scholarship](https://github.com/Hager205/Customer-Churn-Prediction-DEPI)**  
+- implements advanced machine learning techniques to predict **customer churn behavior**. By analyzing patterns in customer data, businesses can identify at-risk customers and take proactive steps to improve retention.
 
-💡 *Check out more of my projects [here](#)*
+💡 *Check out more of my projects [here](https://github.com/Hager205?tab=repositories)*
 
 ---
 

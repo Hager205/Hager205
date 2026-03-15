@@ -45,7 +45,10 @@ I am a **Junior Data Scientist and Software Engineer** with a strong foundation 
 
 ### 💻 Top Languages
 
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hager205&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
 
 ### 🌍 Let's Connect
 
